@@ -1,0 +1,26 @@
+td{
+    text-align: center;
+    font-size: 30px;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td{
+    border:2px solid black;
+    padding: 5px;
+    color: red;
+ }
+ ol{
+    background-color: blue;
+    margin: 10px 0;
+ }
+ ul{
+    background-color: pink;
+    margin: 10px 0;
+ }
+  td{
+    border:2px solid black;
+    padding: 5px;
+    color: black;
+ }
